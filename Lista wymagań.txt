@@ -1,0 +1,17 @@
+Wymagania funkcjonalne:
+System umo¿liwia:
+1. Rozpoczêcie gry – P1
+2. Ustawienie wy³¹czenie/w³¹czenie dŸwiêku – P3 
+3. Przegl¹d listy 10 najlepszych wyników – P4
+4. Sterowanie wê¿em – P1
+5. Zdobywanie punktów poprzez zdobywanie owoców – P2
+6. Wyœwietlanie aktualnego wyniku – P2
+7. Pojawianie siê owoców w losowych miejscach na ekranie – P1
+Wymagania niefunkcjonalne:
+System udostêpnia:
+1. Wê¿a w kolorze zielonym – P3
+
+Legenda:
+P1-  Najwy¿szy priorytet
+P2 - Œredni priorytet
+P3 - Niski priorytet
