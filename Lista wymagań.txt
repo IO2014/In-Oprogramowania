@@ -1,17 +1,17 @@
 Wymagania funkcjonalne:
-System umo¿liwia:
-1. Rozpoczêcie gry – P1
-2. Ustawienie wy³¹czenie/w³¹czenie dŸwiêku – P3 
-3. Przegl¹d listy 10 najlepszych wyników – P4
-4. Sterowanie wê¿em – P1
-5. Zdobywanie punktów poprzez zdobywanie owoców – P2
-6. Wyœwietlanie aktualnego wyniku – P2
-7. Pojawianie siê owoców w losowych miejscach na ekranie – P1
+System umoÅ¼liwia:
+1. RozpoczÄ™cie gry â€“ P1
+2. Ustawienie wyÅ‚Ä…czenie/wÅ‚Ä…czenie dÅºwiÄ™ku â€“ P3 
+3. PrzeglÄ…d listy 10 najlepszych wynikÃ³w â€“ P3
+4. Sterowanie wÄ™Å¼em â€“ P1
+5. Zdobywanie punktÃ³w poprzez zdobywanie owocÃ³w â€“ P2
+6. WyÅ›wietlanie aktualnego wyniku â€“ P2
+7. Pojawianie siÄ™ owocÃ³w w losowych miejscach na ekranie â€“ P1
 Wymagania niefunkcjonalne:
-System udostêpnia:
-1. Wê¿a w kolorze zielonym – P3
+System udostÄ™pnia:
+1. WÄ™Å¼a w kolorze zielonym â€“ P3
 
 Legenda:
-P1-  Najwy¿szy priorytet
-P2 - Œredni priorytet
+P1-  NajwyÅ¼szy priorytet
+P2 - Åšredni priorytet
 P3 - Niski priorytet
