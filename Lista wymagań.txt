@@ -1,12 +1,11 @@
 Wymagania funkcjonalne:
 System umożliwia:
 1. Rozpoczęcie gry – P1
-2. Ustawienie wyłączenie/włączenie dźwięku – P3 
-3. Przegląd listy 10 najlepszych wyników – P3
-4. Sterowanie wężem – P1
-5. Zdobywanie punktów poprzez zdobywanie owoców – P2
-6. Wyświetlanie aktualnego wyniku – P2
-7. Pojawianie się owoców w losowych miejscach na ekranie – P1
+2. Przegląd listy 10 najlepszych wyników – P3
+3. Sterowanie wężem – P1
+4. Zdobywanie punktów poprzez zdobywanie owoców – P2
+5. Wyświetlanie aktualnego wyniku – P2
+6. Pojawianie się owoców w losowych miejscach na ekranie – P1
 Wymagania niefunkcjonalne:
 System udostępnia:
 1. Węża w kolorze zielonym – P3
